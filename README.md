@@ -1,0 +1,2 @@
+# Rummikub-Simulation
+If you've ever played Rummikub, like me, you might have wondered about some of these questions:  What is the probability of being able to go down on the initial draw of 14 tiles? How many times must a player draw, on average, before they are able to go down? What's the largest number of times a player can draw before they can go down? Do the results of the previous questions depend on how many players there are? As it turns out, Rummikub isn't trivial to simulate. However, this project is my attempt at answering some of those pressing questions! 
